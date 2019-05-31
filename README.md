@@ -1,2 +1,3 @@
 # hello-world
-Tutorial on using GitHub
+Hello, I'm trying to learn some C#!
+
